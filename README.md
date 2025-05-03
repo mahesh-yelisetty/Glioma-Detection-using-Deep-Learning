@@ -101,4 +101,4 @@ cd brain-tumor-detection
 pip install -r requirements.txt
 
 # Run training
-python train.py
+python Glioma Detection.py
